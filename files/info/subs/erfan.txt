@@ -1,1 +1,1 @@
-vless://820a48c5-8d2e-4a12-b6ce-a136d7ae7e00@pl.sigma4dpoincare.monster:443?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=telewebion.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-erfan
+vless://820a48c5-8d2e-4a12-b6ce-a136d7ae7e00@pl.sigma4dpoincare.monster:443?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=github.io&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-erfan
