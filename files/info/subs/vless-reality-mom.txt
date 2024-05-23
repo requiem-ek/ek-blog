@@ -1,1 +1,1 @@
-vless://72144223-cb8c-40cb-883d-0765885603d0@pl.sigma4dpoincare.monster:54958?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=google.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-mom
+vless://72144223-cb8c-40cb-883d-0765885603d0@pl.sigma4dpoincare.monster:443?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=google.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-mom

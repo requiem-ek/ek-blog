@@ -1,1 +1,1 @@
-vless://f4c5d36d-b7f5-4267-aba9-79fd1e5f9f27@pl.sigma4dpoincare.monster:54958?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=google.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-niki
+vless://f4c5d36d-b7f5-4267-aba9-79fd1e5f9f27@pl.sigma4dpoincare.monster:443?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=google.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-niki

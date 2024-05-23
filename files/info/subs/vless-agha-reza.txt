@@ -1,1 +1,1 @@
-vless://9a70bc1f-e3dd-4ac1-a189-ba32f4d079f9@pl.sigma4dpoincare.monster:54958?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=google.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-agha-reza
+vless://9a70bc1f-e3dd-4ac1-a189-ba32f4d079f9@pl.sigma4dpoincare.monster:443?type=tcp&security=reality&pbk=3NheSm33B7snZSTPGBmiF1yQEYOOzfe2shMxPYWbIGw&fp=chrome&sni=google.com&sid=fbfb5dc6&spx=%2F&flow=xtls-rprx-vision#reality-agha-reza
