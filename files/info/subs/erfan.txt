@@ -1,1 +1,1 @@
-vless://23d2e185-cebe-40e9-9579-60301dcdaa46@pl.sigma4dpoincare.monster:443?type=tcp&security=reality&pbk=wKqxb0XgcfDAl2H1nplfGkEVU68uuRqPpK6GLudbBgA&fp=chrome&sni=yahoo.com&sid=81b40f3a&spx=%2F#K-erfan
+vless://23d2e185-cebe-40e9-9579-60301dcdaa46@pl.sigma4dpoincare.monster:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=reality&pbk=wKqxb0XgcfDAl2H1nplfGkEVU68uuRqPpK6GLudbBgA&fp=chrome&sni=yahoo.com&sid=81b40f3a&spx=%2F&flow=xtls-rprx-vision#K-erfan
